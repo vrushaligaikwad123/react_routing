@@ -1,0 +1,17 @@
+.navbar{
+    background-color: black;
+    
+}
+.nav-head{
+    display: inline-block;
+    color:white;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+.menu{
+    color: aqua;
+    margin-right: 100px;
+    display: inline-block;
+    font-size: 30px;
+}
+

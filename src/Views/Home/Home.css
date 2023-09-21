@@ -1,0 +1,7 @@
+.home-container{
+    background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    min-height: 100vh;
+}
