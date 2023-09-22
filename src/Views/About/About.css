@@ -1,7 +1,8 @@
 .about{
-    background-color: tomato;
+    background-color: rgb(203, 255, 71);
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    min-height: 100vh;
     }
    

@@ -5,6 +5,7 @@ import Home from "./Views/Home/Home"
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
 import Contact from './Views/Contact/Contact';
+import About from './Views/About/About'
 
 const router = createBrowserRouter([
     {
